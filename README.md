@@ -11,3 +11,7 @@
 ### What are arrays?
 1. List of elements, such as datatypes such as (String, number, other arrays, objects, hashes)
 2. They are a datatype
+
+Arrays are created with straight brackets [].
+The elements inside of arrays are divided by , for example: 
+Gem is a Ruby toolset added for debugging
